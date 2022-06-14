@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_nav_kimsCafe/static/css/main.7dc23dd9.css",
+    "main.js": "/react_nav_kimsCafe/static/js/main.620b49c4.js",
+    "static/js/787.1cd43ffb.chunk.js": "/react_nav_kimsCafe/static/js/787.1cd43ffb.chunk.js",
+    "index.html": "/react_nav_kimsCafe/index.html",
+    "main.7dc23dd9.css.map": "/react_nav_kimsCafe/static/css/main.7dc23dd9.css.map",
+    "main.620b49c4.js.map": "/react_nav_kimsCafe/static/js/main.620b49c4.js.map",
+    "787.1cd43ffb.chunk.js.map": "/react_nav_kimsCafe/static/js/787.1cd43ffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dc23dd9.css",
+    "static/js/main.620b49c4.js"
+  ]
+}
